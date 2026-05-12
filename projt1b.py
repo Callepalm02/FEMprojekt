@@ -334,3 +334,5 @@ if __name__=="__main__":
     plt.tight_layout()
     plt.savefig("temperature_distribution_over_time.png")
     plt.show()
+
+# Tjena tjockis
